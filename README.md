@@ -1,26 +1,33 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Sujan Ali</h1>
 <h3 align="center">🚀 Full Stack Developer | Blockchain Enthusiast | Open Source Contributor</h3>
 
----
-
-### 👨‍💻 About Me  
-- 🎓 I’m a **3rd-year Integrated MCA student** at **ICFAI University, Tripura**  
-- 💻 Passionate about **Web Development, Blockchain, and Cybersecurity**  
-- 🌱 Currently learning **Spring Boot, Next.js & DevOps**  
-- 💡 Love to build **real-world projects** and share knowledge  
-- 📫 Reach me at **your-email@example.com**  
-- 🌐 Portfolio Website: [yourportfolio.com](https://yourportfolio.com)  
+<p align="center">
+  <a href="https://github.com/Sujan3647">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Blockchain+%26+Web3+Explorer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%92%AA" alt="Typing Animation"/>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+### 👨‍💻 About Me
+- 🎓 Student at **ICFAI University, Tripura (Integrated MCA)**  
+- 💻 Skilled in **MERN, Java, Spring Boot, Solidity**  
+- 🌱 Currently learning **Next.js, DevOps, and Cybersecurity**  
+- 🔗 Building projects in **Web, Blockchain, and Cloud**  
+- 📫 Reach me at **sujan3647@example.com**  
 
-#### 💻 Programming & Development
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 #### 🌐 Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
@@ -55,21 +62,20 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanali&show_icons=true&theme=tokyonight" alt="sujanali" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanali&theme=tokyonight" alt="sujanali" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujan3647&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan3647&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujan3647&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/yourinstagram" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<p align="center">
+<a href="https://linkedin.com/in/sujan-ali-587469307" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/n3xus.officaI" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:sujan3647@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ From [Sujan Ali](https://github.com/sujanali)
+⭐ From [Sujan Ali](https://github.com/Sujan3647)
